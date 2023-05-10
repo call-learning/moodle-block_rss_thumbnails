@@ -49,3 +49,5 @@ $string['enableautodiscovery_help'] = 'By checking this, the RSS feed will reloa
 $string['feeddeleted'] = 'The feed has been successfully deleted';
 $string['configureblock'] = "Click the edit icon above to configure this block to display RSS thumbnails .";
 $string['invalidconfig'] = "It looks like your block configuration is invalid.<br>Make sure you did not lay some empty fields.";
+$string['rss_thumbnails:manageanyfeeds'] = 'Manage any feed';
+$string['rss_thumbnails:manageownfeeds'] = 'Manage own feeds';
